@@ -65,7 +65,7 @@ Protein-Protein Interactions (PPIs) are critical to understanding cellular funct
 
 ---
 
-##  Visualizations (Optional)
+##  Visualizations
 
 Add examples of:
 - Heatmaps for interaction matrices
