@@ -1,0 +1,201 @@
+Nucleotide	Species	Length	Protein	Host	Tissue_Specimen_Source	Collection_Date
+KF470481	Human immunodeficiency virus 1	326	pol protein	Homo sapiens		2002
+PP832418	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		5/13/2024
+BK042317	Caudoviricetes sp.	50	hypothetical protein	human metagenome		2/19/2015
+OM340587	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens		1/9/2022
+MT310870	Mycobacterium phage RawrgerThat	580	lysin A	Mycolicibacterium smegmatis		10/1/2016
+OL622512	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	10/30/2021
+OM190315	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	12/15/2021
+OK228955	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens		8/28/2021
+OL990802	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens	oronasopharynx	11/29/2021
+OP446559	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens		8/3/2022
+OQ523602	Severe acute respiratory syndrome-related coronavirus	119	ORF8 protein	Homo sapiens	oronasopharynx	12/29/2021
+MZ076032	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		4/2/2021
+OR757773	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		9/26/2023
+OQ504980	Synechococcus phage S-MS29	309	single-stranded DNA-binding protein	Synechococcus sp. MW02		
+OQ242936	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	12/24/2022
+OK034382	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens		8/27/2021
+OR419302	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens		7/23/2023
+MZ185303	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens		4/29/2021
+KT254013	Lymphocryptovirus humangamma4	345	BdRF1	Homo sapiens		2013
+JX411975	Rotavirus A	277	inner capsid protein	Homo sapiens	feces	2011
+OP405479	Severe acute respiratory syndrome-related coronavirus	41	ORF1ab polyprotein	Homo sapiens	oronasopharynx	11/10/2020
+OP521635	Severe acute respiratory syndrome-related coronavirus	416	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	2/14/2022
+OK019607	Severe acute respiratory syndrome-related coronavirus	7096	ORF1ab polyprotein	Homo sapiens		8/9/2021
+OL433854	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		10/11/2021
+OK619034	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens	oronasopharynx	9/23/2021
+OL918090	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens	oronasopharynx	11/30/2021
+OK422430	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens	oronasopharynx	9/2/2021
+OL320861	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens		10/5/2021
+MW252151	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	6/17/2020
+OK219566	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens	oronasopharynx	8/16/2021
+OK397692	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens		9/7/2021
+OQ684107	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens	oronasopharynx	3/7/2023
+ON620783	Severe acute respiratory syndrome-related coronavirus	7093	ORF1ab polyprotein	Homo sapiens	oronasopharynx	4/28/2022
+OK659683	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens		7/14/2020
+PP063420	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		11/27/2023
+MW796100	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	2/25/2021
+MF769410	Swine acute diarrhea syndrome related coronavirus	538	spike glycoprotein subunit 1	Rhinolophus		
+	Human immunodeficiency virus 1	81	Protein Vpu	Homo sapiens		
+NC_051722	Avanivirus demsculpinboyz	48	hypothetical protein	Mycolicibacterium smegmatis MC2 155		10/1/2016
+PQ160013	Monkeypox virus	111	Entry/fusion complex component	Homo sapiens		9/10/2023
+MW328856	Nepovirus cycas	1356	polyprotein	Paeonia lactiflora		2016-09
+OM050787	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens		12/15/2021
+LR796484	uncultured Caudovirales phage	71	hypothetical protein			8/18/2017
+ON836939	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens	oronasopharynx	6/13/2022
+OM101708	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	12/13/2021
+NC_021923	Alphabaculovirus heleucae	1264	helicase	Hemileuca		
+ON298079	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens		4/19/2021
+MT755832	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	7/6/2020
+MW905807	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	3/22/2021
+OP568019	Severe acute respiratory syndrome-related coronavirus	416	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	9/13/2022
+BK056014	Microviridae sp.	569	Replication associated protein			10/24/2018
+DQ437590	Variola virus	195	type-I membrane glycoprotein			
+OR753196	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		9/26/2023
+BK013340	Vaccinia virus	176	MHC-II antigen presentation inhibitor	Homo sapiens		
+OP720001	Severe acute respiratory syndrome-related coronavirus	7092	ORF1ab polyprotein	Homo sapiens	oronasopharynx	2/15/2022
+ON404283	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens		4/17/2022
+OM634886	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		1/3/2022
+MZ530005	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	6/21/2021
+OM815285	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens		2/8/2022
+OQ713362	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens	oronasopharynx	3/17/2023
+OR998634	Severe acute respiratory syndrome-related coronavirus	7093	ORF1ab polyprotein	Homo sapiens		12/5/2023
+OM444319	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens		12/26/2021
+OL329482	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	10/15/2021
+NC_054812	Turbidovirus joshkayV	57	hypothetical protein	Mycolicibacterium smegmatis MC2 155		7/4/2016
+MZ029133	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens		4/2/2021
+OK280454	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	9/7/2021
+OQ336625	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens		12/30/2022
+ON731144	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	5/20/2022
+ON020568	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens	oronasopharynx	3/2/2022
+OM870950	Severe acute respiratory syndrome-related coronavirus	4401	ORF1a polyprotein	Homo sapiens		2/20/2022
+OK137808	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens	oronasopharynx	8/10/2021
+OQ210007	Pseudomonas phage MK	229	hypothetical protein	Pseudomonas aeruginosa		2019
+OM844615	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens		1/26/2022
+ON537461	Severe acute respiratory syndrome-related coronavirus	1270	surface glycoprotein	Homo sapiens	oronasopharynx	5/3/2022
+OK541021	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	9/17/2021
+OP073734	Bacteriophage sp.	78	Protein of unknown function (DUF739)	Homo sapiens	feces	
+OL399283	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens		10/7/2021
+MZ538868	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens		4/7/2021
+OL504532	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	1/19/2021
+OM387629	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens		1/3/2022
+MH107769	Staphylococcus phage vB_SauM_0414_108	95	membrane protein	Staphylococcus aureus		
+MZ708097	Norwalk virus	90	VP1	Homo sapiens	feces	2013-11
+ON526615	Severe acute respiratory syndrome-related coronavirus	4401	ORF1a polyprotein	Homo sapiens		1/31/2022
+OL889483	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens		11/21/2021
+AJ715593	Hepacivirus hominis	157	polyprotein			
+OL838805	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens	oronasopharynx	11/13/2021
+OQ739900	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens	oronasopharynx	12/10/2020
+ON290903	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens		1/13/2021
+KJ627262	Orthopneumovirus hominis	241	phosphoprotein	Homo sapiens		3/14/2012
+OM259157	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens	oronasopharynx	12/15/2021
+OM623349	Severe acute respiratory syndrome-related coronavirus	7092	ORF1ab polyprotein	Homo sapiens	oronasopharynx	1/20/2022
+MN442763	Simian immunodeficiency virus	510	gag protein	Macaca mulatta		9/4/2019
+OK089015	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens		9/5/2021
+BK059005	Caudoviricetes sp.	665	hypothetical protein	human metagenome		7/27/2012
+OL340045	Severe acute respiratory syndrome-related coronavirus	7096	ORF1ab polyprotein	Homo sapiens	oronasopharynx	10/20/2021
+ON289146	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		1/29/2021
+OK711996	Severe acute respiratory syndrome-related coronavirus	7096	ORF1ab polyprotein	Homo sapiens		10/15/2021
+OM465359	Severe acute respiratory syndrome-related coronavirus	4401	ORF1a polyprotein	Homo sapiens	oronasopharynx	1/14/2022
+OL803620	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	swab	4/26/2021
+OQ427131	Monkeypox virus	737	Iev morphogenesis protein	Homo sapiens		2022-10
+OL724379	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens	oronasopharynx	11/16/2021
+OQ720784	Severe acute respiratory syndrome-related coronavirus	7066	ORF1ab polyprotein	Homo sapiens		4/28/2022
+LC064376	Hepatitis B virus	212	precore/core protein	Homo sapiens	blood	2012-03
+MZ410156	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	6/2/2021
+OK083895	Severe acute respiratory syndrome-related coronavirus	256	nucleocapsid phosphoprotein	Homo sapiens		3/30/2020
+OR624277	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens	oronasopharynx	9/11/2023
+BK029104	Caudoviricetes sp.	228	hypothetical protein	human metagenome		9/26/2012
+OP208011	Severe acute respiratory syndrome-related coronavirus	1268	surface glycoprotein	Homo sapiens	oronasopharynx	8/1/2022
+OL835047	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens	oronasopharynx	11/22/2021
+LR796461	uncultured Caudovirales phage	113	hypothetical protein			4/20/2016
+MZ236560	Severe acute respiratory syndrome-related coronavirus	26		Homo sapiens		4/3/2021
+ON851717	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens	oronasopharynx	6/6/2022
+KJ019085	Atlauavirus tusconc8	71	hypothetical protein	Synechococcus		
+LR595891	Xuanwuvirus P884B11	47	hypothetical protein	Escherichia coli		
+OQ143885	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	12/13/2022
+OP670737	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens	oronasopharynx	10/1/2022
+ON640288	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens		1/4/2022
+OP462211	Severe acute respiratory syndrome-related coronavirus	37	ORF10 protein	Homo sapiens	oronasopharynx	7/25/2022
+OP139957	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens	oronasopharynx	7/11/2022
+OM352233	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens		1/8/2022
+ON731940	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	5/20/2022
+EU241691	Orthohantavirus andesense	308	nucleocapsid protein	Oligoryzomys longicaudatus		
+OM253373	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens		2/26/2021
+PQ072033	Alphainfluenzavirus influenzae	498	nucleocapsid protein	Homo sapiens	oronasopharynx	1/14/2024
+OQ724888	Simplexvirus humanalpha1	373	tegument protein UL16	Homo sapiens		2009
+MN931746	Molluscum contagiosum virus	73	MC053.2R	Homo sapiens	skin	2018-12
+KY685892	Myoviridae environmental samples	139	major capsid protein			10/15/2014
+NC_019540	Salinovirus utanense	153	hypothetical protein	Salinivibrio costicola		
+OL570122	Severe acute respiratory syndrome-related coronavirus	1271	surface glycoprotein	Homo sapiens		10/18/2021
+KX420944	Rotavirus A	397	VP6	Eidolon helvum		10/24/2012
+OM343528	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens	oronasopharynx	1/3/2022
+BS014349	Severe acute respiratory syndrome-related coronavirus	7093	ORF1ab polyprotein	Homo sapiens	"saliva, oronasopharynx"	8/3/2022
+OP987021	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens		11/27/2022
+ON572362	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens		9/17/2021
+MZ844147	Severe acute respiratory syndrome-related coronavirus	43	ORF7b protein	Homo sapiens	oronasopharynx	8/6/2021
+OL394261	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	10/20/2021
+OL985470	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		12/7/2021
+BK037179	Caudoviricetes sp.	31	hypothetical protein	human metagenome		2/19/2015
+ON324371	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens		3/23/2022
+OK085794	Severe acute respiratory syndrome-related coronavirus	25	ORF7b protein	Homo sapiens		8/15/2021
+ON610845	Severe acute respiratory syndrome-related coronavirus	1270	surface glycoprotein	Homo sapiens	oronasopharynx	5/10/2022
+PQ261055	Monkeypox virus	637	Early transcription factor 70 kDa subunit	Homo sapiens		2024-07
+OL553061	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		10/27/2021
+OP998667	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens		11/24/2022
+OQ372824	Severe acute respiratory syndrome-related coronavirus	7093	ORF1ab polyprotein	Homo sapiens		1/18/2023
+OM474310	Severe acute respiratory syndrome-related coronavirus	416	nucleocapsid phosphoprotein	Homo sapiens		1/24/2022
+MZ948319	Severe acute respiratory syndrome-related coronavirus	4405	ORF1a polyprotein	Homo sapiens		8/18/2021
+OR203101	Betainfluenzavirus influenzae	248	matrix protein 1	Homo sapiens		1/14/2023
+PP051662	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens		11/11/2023
+OL988035	Severe acute respiratory syndrome-related coronavirus	119	ORF8 protein	Homo sapiens	oronasopharynx	12/14/2021
+OK370197	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens	oronasopharynx	9/15/2021
+KY883654	Jesfedecavirus JSF10	158	ribonuclease HI	Vibrio cholerae		
+OM016807	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens		12/14/2021
+OK008361	Severe acute respiratory syndrome-related coronavirus	7096	ORF1ab polyprotein	Homo sapiens		8/7/2021
+BK023427	Caudoviricetes sp.	213	hypothetical protein	human metagenome		2/19/2015
+PP782578	Severe acute respiratory syndrome-related coronavirus	121	ORF8 protein	Homo sapiens		10/19/2020
+OM735593	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens		2/7/2022
+ON653916	Severe acute respiratory syndrome-related coronavirus	416	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	5/17/2022
+OK356350	Severe acute respiratory syndrome-related coronavirus	61	ORF6 protein	Homo sapiens		8/2/2021
+NC_048121	Mukerjeevirus mv52B1	341	hypothetical protein	Vibrio breoganii		9/18/2010
+PP968062	Pseudomonas phage HPP-Temi	57	hypothetical protein	Pseudomonas aeruginosa		9/25/2023
+MW796957	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		3/3/2021
+OM516750	Severe acute respiratory syndrome-related coronavirus	378	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	11/4/2020
+MW738406	Severe acute respiratory syndrome-related coronavirus	1273	surface glycoprotein	Homo sapiens		1/4/2021
+ON141659	Severe acute respiratory syndrome-related coronavirus	7090	ORF1ab polyprotein	Homo sapiens	oronasopharynx	3/17/2022
+OQ775086	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	7/5/2022
+OK426456	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens		8/29/2020
+OR449656	Monkeypox virus	785	NTPase (1)	Homo sapiens	swab	2022-06
+MH779500	Pegunavirus soto	176	helix-turn-helix DNA binding domain protein	Mycolicibacterium smegmatis MC2 155		9/1/2011
+ON941506	Severe acute respiratory syndrome-related coronavirus	416	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	6/23/2022
+DQ400396	Morbillivirus hominis	150	nucleoprotein			
+MF146231	Alphainfluenzavirus influenzae	252	matrix protein 1	Chroicocephalus ridibundus		7/6/2013
+BK032992	Caudoviricetes sp.	107	hypothetical protein	human metagenome		8/8/2018
+MZ196385	Severe acute respiratory syndrome-related coronavirus	1270	surface glycoprotein	Homo sapiens	oronasopharynx	4/17/2021
+MW443181	Human immunodeficiency virus 1	1009	pol protein	Homo sapiens	blood	
+ON512253	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		4/7/2022
+KJ673845	Hepacivirus hominis	160	polyprotein	Homo sapiens		
+OK601744	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens		9/20/2021
+OM181223	Severe acute respiratory syndrome-related coronavirus	1273	surface glycoprotein	Homo sapiens		7/2/2020
+OR516425	Severe acute respiratory syndrome-related coronavirus	1269	surface glycoprotein	Homo sapiens	oronasopharynx	8/24/2023
+OP517312	Caudoviricetes sp.	474	terminase large subunit	Ailuropoda melanoleuca	feces	2019
+ON617564	Severe acute respiratory syndrome-related coronavirus	7071	ORF1ab polyprotein	Homo sapiens		5/12/2022
+OK112712	Severe acute respiratory syndrome-related coronavirus	121	ORF7a protein	Homo sapiens	oronasopharynx	8/16/2021
+MZ255635	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens		3/22/2021
+OQ602574	Severe acute respiratory syndrome-related coronavirus	4402	ORF1a polyprotein	Homo sapiens	oronasopharynx	2/22/2023
+MK892701	Prokaryotic dsDNA virus sp.	686	putative concanavalin A-like lectin/glucanases superfamily protein			4/22/2011
+BS010728	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	"saliva, oronasopharynx"	6/20/2021
+OK234462	Severe acute respiratory syndrome-related coronavirus	1272	surface glycoprotein	Homo sapiens	oronasopharynx	3/22/2021
+ON193979	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens	oronasopharynx	10/1/2021
+ON418836	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens	oronasopharynx	4/18/2022
+ON464610	Severe acute respiratory syndrome-related coronavirus	222	membrane glycoprotein	Homo sapiens	oronasopharynx	4/20/2022
+MK327458	Human immunodeficiency virus 1	183	envelope glycoprotein	Homo sapiens		2013
+OP366348	Severe acute respiratory syndrome-related coronavirus	38	ORF10 protein	Homo sapiens	oronasopharynx	8/19/2022
+PP093702	Monkeypox virus	70	IMV membrane protein A13L	Homo sapiens	swab	2023-11
+OL508716	Severe acute respiratory syndrome-related coronavirus	75	envelope protein	Homo sapiens	oronasopharynx	11/9/2021
+OK291421	Severe acute respiratory syndrome-related coronavirus	419	nucleocapsid phosphoprotein	Homo sapiens		4/2/2021
+JX148044	Human immunodeficiency virus 1	71	tat protein	Homo sapiens		
+OM926975	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens		2/24/2022
+PQ174588	Severe acute respiratory syndrome-related coronavirus	1270	surface glycoprotein	Homo sapiens		1/6/2022
+MZ000423	Severe acute respiratory syndrome-related coronavirus	275	ORF3a protein	Homo sapiens	oronasopharynx	3/27/2021
